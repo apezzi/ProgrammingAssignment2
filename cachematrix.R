@@ -1,4 +1,4 @@
-## This functions are used to create a special matrix than can cache it inverse to avoid perfoming
+## These functions are used to create a special matrix than can cache it inverse to avoid perfoming
 ## redundant computations.
 
 ## This function creates a special matrix which is really a list containing a function to:
